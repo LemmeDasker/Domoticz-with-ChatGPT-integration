@@ -15,7 +15,7 @@ But look no more...now you can make it yourself.
 
 This is the code that will make you start the integration. You can add more devices and twist it to suit your specific needs.
 
-In my current setup, I can speak to Domoticz and for example give it commands like turning different lamps on/off and change their light intensity, all in the same sentence. It can give me the status of all or individual doors if they are open/closed, and it can also function as a traditional digital assistant answering questions.
+In my current setup (and not with this basic code), I can speak to Domoticz and for example give it commands like turning different lamps on/off and change their light intensity, all in the same sentence. It can give me the status of all or individual doors if they are open/closed, and it can also function as a traditional digital assistant answering questions.
 
 It still comes with minor errors occasionally, but it seems to come down to two things:
 
