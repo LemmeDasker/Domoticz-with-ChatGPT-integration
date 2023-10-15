@@ -11,7 +11,7 @@ We all know Alexa and Google Home, but they are pretty dumb devices, even though
 
 Adding the extra AI layer we have seen with ChatGPT where the digital assistant can understand the spoken context and handle multiple requests simultaneously is groundbreaking. Unfortunately, we might be looking a year or two ahead of this integration.
 
-But now you can make it yourself.
+But look no more...now you can make it yourself.
 
 This is the code that will make you start the integration. You can add more devices and twist it to suit your specific needs.
 
