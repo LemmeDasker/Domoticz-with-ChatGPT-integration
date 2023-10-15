@@ -37,9 +37,14 @@ pip install --upgrade openai
 
 #### Start script
 Start the application when you boot Windows. For your convenience, configure it so it starts before you login.:
+
 Press WINDOWS+R on your keyboard
+
 Enter "taskschd.msc" and press ENTER
+
 Click on "Create Basic Task...", which is located in the section called "Actions"
+
 Now the wizard will help you to create your task - choose the start script AI.bat
+
 Adjust the script's path to where your start.py is.
 
