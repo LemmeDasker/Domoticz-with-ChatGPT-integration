@@ -1,5 +1,5 @@
-# Domoticz with ChatGPT integration
-Control Domoticz with voice commands using ChatGPT!
+# Domoticz Home Automation with ChatGPT integration
+Control your Domoticz Home Automation Center with voice commands using ChatGPT!
 
 ![IMG_1114-min (3)](https://github.com/LemmeDasker/Domoticz-with-ChatGPT-integration/assets/38005465/7ec26f82-0fc8-4b39-9832-5dd76f6a0731)
 
