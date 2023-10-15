@@ -1,24 +1,17 @@
 # Domoticz with ChatGPT integration
-Control Domoticz with voice commands using ChatGPT
+Control Domoticz with voice commands using ChatGPT!
 
-Have ChatGPT controlling Domoticz!
 
-We all know Alexa and Google Home, but they are pretty dumb devices, even though they do the job well.
 
-They can switch the light On-/off, but can only take one command at a time. And you have to be fairly precise in your command.
+We all know Alexa and Google Home, but they are pretty dumb devices, even though they do the job well. They can switch the light On-/off, but can only take one command at a time. And you have to be fairly precise in your command.
 
-Adding the extra AI layer we have seen with ChatGPT where the digital assistant can understand the spoken context and handle multiple requests simultaneously is groundbreaking.
-
-Unfortunately, we might be looking a year or two ahead of this integration.
+Adding the extra AI layer we have seen with ChatGPT where the digital assistant can understand the spoken context and handle multiple requests simultaneously is groundbreaking. Unfortunately, we might be looking a year or two ahead of this integration.
 
 But now you can make it yourself.
 
-This is the code that will make you start the integration. You can add more devices to control and twist it to suit your specific needs.
+This is the code that will make you start the integration. You can add more devices and twist it to suit your specific needs.
 
-In my current setup, I can speak to Domoticz and for example give it commands like turning different lamps on/off and change their light intensity, all in the same sentence.
-
-It can give me the status of all or individual doors if they are open/closed, and it can also function as a traditional digital assistant answering questions.
-
+In my current setup, I can speak to Domoticz and for example give it commands like turning different lamps on/off and change their light intensity, all in the same sentence. It can give me the status of all or individual doors if they are open/closed, and it can also function as a traditional digital assistant answering questions.
 
 It still comes with minor errors occasionally, but it seems to come down to two things:
 
