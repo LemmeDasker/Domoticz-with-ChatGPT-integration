@@ -23,7 +23,7 @@ A good speaker/microphone. If you can, choose a Conference model with 4 directio
 
 ChatGPT's ability to recognise the spoken context and convert it to the correct commands. This will get better as OpenAI matures the LLM model. Right now I use ChatGPT4.
 
- 
+### Install the needed packages 
 #### Microsoft Visual C++ Redistributable
 Install the Microsoft Visual C++ Redistributable for Visual Studio 2015, 2017, 2019, and 2022.
 https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170&preserve-view=true#visual-studio-2015-2017-2019-and-2022
@@ -59,7 +59,9 @@ pip install --upgrade openai
 ```
 
 #### Start script
-Start the application when you boot Windows. For your convenience, configure it so it starts before you login.:
+You start the application by opening a command promt, going to your folder with your project at run: python start.py
+
+When you are finished with testing and want to 'go live', I recommend you start the application when you boot Windows. For your convenience, configure it so it starts before you login.:
 
 Press WINDOWS+R on your keyboard
 
