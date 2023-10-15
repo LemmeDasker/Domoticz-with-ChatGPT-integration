@@ -7,7 +7,7 @@ Control Domoticz with voice commands using ChatGPT!
 
 
 
-We all know Alexa and Google Home, but they are pretty dumb devices, even though they do the job well. They can switch the light On-/off, but can only take one command at a time. And you have to be fairly precise in your command.
+We all know Alexa and Google Home, but they are pretty dumb devices, even though they do the job well. They can switch the light On-/Off, but can only take one command at a time. And you have to be fairly precise in your command.
 
 Adding the extra AI layer we have seen with ChatGPT where the digital assistant can understand the spoken context and handle multiple requests simultaneously is groundbreaking. Unfortunately, we might be looking a year or two ahead of this integration.
 
