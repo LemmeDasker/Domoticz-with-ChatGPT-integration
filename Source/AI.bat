@@ -1,0 +1,1 @@
+C:\<PATH-TO-YOUR-START-SCRIPT>\start.py
