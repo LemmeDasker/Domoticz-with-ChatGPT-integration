@@ -1,10 +1,7 @@
 # Domoticz Home Automation with ChatGPT integration
 Control your Domoticz Home Automation Center with voice commands using ChatGPT!
 
-![IMG_1114-min (3)](https://github.com/LemmeDasker/Domoticz-with-ChatGPT-integration/assets/38005465/7ec26f82-0fc8-4b39-9832-5dd76f6a0731)
-
-
-
+![IMG_1114-min (3)](https://github.com/LemmeDasker/Domoticz-with-ChatGPT-integration/assets/38005465/e78aa995-d177-4f1f-8b11-dee15832f7aa)
 
 
 We all know Alexa and Google Home, but they are pretty dumb devices, even though they do the job well. They can switch the light On-/Off, but can only take one command at a time. And you have to be fairly precise in your command.
